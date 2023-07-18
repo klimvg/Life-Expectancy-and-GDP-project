@@ -13,6 +13,8 @@ This project is focused on performing a data visualization using a dataset conta
 Various data visualization techniques were used in this project such as boxplots and scatterplots.
 The data is limited but some trends are showing even with the given data.
 
+The project is located in "index.ipynb" file of this repository.
+
 ### Built With
 
 * Jupyter notebook
